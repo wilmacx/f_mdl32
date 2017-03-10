@@ -1,0 +1,156 @@
+[03-Jan-2017 12:37:15 Africa/Abidjan] instantiating backup controller 21ea5180b00f618beca04ef0b8a97f25
+[03-Jan-2017 12:37:15 Africa/Abidjan] setting controller status to 100
+[03-Jan-2017 12:37:15 Africa/Abidjan] loading controller plan
+[03-Jan-2017 12:37:15 Africa/Abidjan] setting controller status to 300
+[03-Jan-2017 12:37:15 Africa/Abidjan] applying plan defaults
+[03-Jan-2017 12:37:15 Africa/Abidjan] setting controller status to 400
+[03-Jan-2017 12:37:15 Africa/Abidjan] setting file inclusion to 1
+[03-Jan-2017 12:37:15 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:37:15 Africa/Abidjan] setting controller status to 500
+[03-Jan-2017 12:37:15 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:37:16 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:37:16 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:37:16 Africa/Abidjan] saving controller to db
+[03-Jan-2017 12:37:16 Africa/Abidjan] calculating controller checksum d70d5a5484964c83de96ca3aa3c5c55d
+[03-Jan-2017 12:39:55 Africa/Abidjan] instantiating backup controller 79f1e29850b2804367441e403f920405
+[03-Jan-2017 12:39:55 Africa/Abidjan] setting controller status to 100
+[03-Jan-2017 12:39:55 Africa/Abidjan] loading controller plan
+[03-Jan-2017 12:39:55 Africa/Abidjan] setting controller status to 300
+[03-Jan-2017 12:39:55 Africa/Abidjan] applying plan defaults
+[03-Jan-2017 12:39:55 Africa/Abidjan] setting controller status to 400
+[03-Jan-2017 12:39:55 Africa/Abidjan] setting file inclusion to 1
+[03-Jan-2017 12:39:55 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:39:55 Africa/Abidjan] setting controller status to 500
+[03-Jan-2017 12:39:55 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:39:55 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:39:55 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:39:55 Africa/Abidjan] saving controller to db
+[03-Jan-2017 12:39:55 Africa/Abidjan] calculating controller checksum 728bcc082cb68736aacae63ced3d42a3
+[03-Jan-2017 12:40:03 Africa/Abidjan] loading controller from db
+[03-Jan-2017 12:40:03 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:40:03 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:40:03 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:40:03 Africa/Abidjan] saving controller to db
+[03-Jan-2017 12:40:03 Africa/Abidjan] calculating controller checksum 728bcc082cb68736aacae63ced3d42a3
+[03-Jan-2017 12:40:08 Africa/Abidjan] loading controller from db
+[03-Jan-2017 12:40:08 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:40:08 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:40:08 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:40:08 Africa/Abidjan] saving controller to db
+[03-Jan-2017 12:40:08 Africa/Abidjan] calculating controller checksum 728bcc082cb68736aacae63ced3d42a3
+[03-Jan-2017 12:40:14 Africa/Abidjan] loading controller from db
+[03-Jan-2017 12:40:14 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:40:14 Africa/Abidjan] checking plan security
+[03-Jan-2017 12:40:14 Africa/Abidjan] setting controller status to 700
+[03-Jan-2017 12:40:14 Africa/Abidjan] saving controller to db
+[03-Jan-2017 12:40:14 Africa/Abidjan] calculating controller checksum 08d0ad09b1aea2ff955693a73d2a0463
+[03-Jan-2017 12:40:14 Africa/Abidjan] loading controller from db
+[03-Jan-2017 12:40:14 Africa/Abidjan] setting controller status to 800
+[03-Jan-2017 12:40:20 Africa/Abidjan] setting controller status to 1000
+[03-Jan-2017 12:40:20 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:03:34 Africa/Abidjan] instantiating restore controller d7ab4c66ea49a13af8ca04285501239c
+[03-Jan-2017 13:03:34 Africa/Abidjan] setting controller status to 100
+[03-Jan-2017 13:03:34 Africa/Abidjan] loading backup info
+[03-Jan-2017 13:03:34 Africa/Abidjan] loading controller plan
+[03-Jan-2017 13:03:34 Africa/Abidjan] setting controller status to 300
+[03-Jan-2017 13:03:34 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:03:34 Africa/Abidjan] setting controller status to 500
+[03-Jan-2017 13:03:34 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:03:34 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:03:34 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:03:34 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:03:34 Africa/Abidjan] calculating controller checksum 91a9fa3370b2d0ceafefdd24c6db372e
+[03-Jan-2017 13:03:39 Africa/Abidjan] loading controller from db
+[03-Jan-2017 13:03:39 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:03:39 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:03:39 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:03:39 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:03:39 Africa/Abidjan] calculating controller checksum 91a9fa3370b2d0ceafefdd24c6db372e
+[03-Jan-2017 13:04:00 Africa/Abidjan] loading controller from db
+[03-Jan-2017 13:04:00 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:04:00 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:04:00 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:04:00 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:04:00 Africa/Abidjan] calculating controller checksum 60bfd8dca6b60e2cf60c66f0837fa24e
+[03-Jan-2017 13:04:05 Africa/Abidjan] loading controller from db
+[03-Jan-2017 13:04:05 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:04:05 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:04:05 Africa/Abidjan] setting controller status to 600
+[03-Jan-2017 13:04:05 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:04:05 Africa/Abidjan] calculating controller checksum fcbb6d733d53a55c8a703e8afa332429
+[03-Jan-2017 13:04:05 Africa/Abidjan] loading controller from db
+[03-Jan-2017 13:04:06 Africa/Abidjan] setting controller status to 700
+[03-Jan-2017 13:04:06 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:04:06 Africa/Abidjan] calculating controller checksum 6da1ccfa5e0396caefa3b64ea31ecd79
+[03-Jan-2017 13:04:06 Africa/Abidjan] loading controller from db
+[03-Jan-2017 13:04:06 Africa/Abidjan] setting controller status to 800
+[03-Jan-2017 13:04:18 Africa/Abidjan] processing file aliases queue
+[03-Jan-2017 13:04:18 Africa/Abidjan] setting controller status to 1000
+[03-Jan-2017 13:04:18 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:14:18 Africa/Abidjan] instantiating backup controller 3ba69cab62ef698a60dacfec9ca6fcc3
+[03-Jan-2017 13:14:18 Africa/Abidjan] setting controller status to 100
+[03-Jan-2017 13:14:18 Africa/Abidjan] loading controller plan
+[03-Jan-2017 13:14:18 Africa/Abidjan] setting controller status to 300
+[03-Jan-2017 13:14:18 Africa/Abidjan] applying plan defaults
+[03-Jan-2017 13:14:18 Africa/Abidjan] setting controller status to 400
+[03-Jan-2017 13:14:18 Africa/Abidjan] setting file inclusion to 1
+[03-Jan-2017 13:14:18 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:14:18 Africa/Abidjan] setting controller status to 500
+[03-Jan-2017 13:14:18 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:14:19 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:14:19 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:14:19 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:14:19 Africa/Abidjan] calculating controller checksum 5f7f766b46bf73466df3013c9d595ffe
+[03-Jan-2017 13:15:34 Africa/Abidjan] instantiating backup controller e0f7069a52a088c040b7f18ee11d48a3
+[03-Jan-2017 13:15:34 Africa/Abidjan] setting controller status to 100
+[03-Jan-2017 13:15:34 Africa/Abidjan] loading controller plan
+[03-Jan-2017 13:15:34 Africa/Abidjan] setting controller status to 300
+[03-Jan-2017 13:15:34 Africa/Abidjan] applying plan defaults
+[03-Jan-2017 13:15:34 Africa/Abidjan] setting controller status to 400
+[03-Jan-2017 13:15:34 Africa/Abidjan] setting file inclusion to 1
+[03-Jan-2017 13:15:34 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:15:34 Africa/Abidjan] setting controller status to 500
+[03-Jan-2017 13:15:34 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:15:35 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:15:35 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:15:35 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:15:35 Africa/Abidjan] calculating controller checksum 39180aba8826c9afeaa7baf80c1e2726
+[03-Jan-2017 13:43:18 Africa/Abidjan] instantiating restore controller 0d8490900adec1330087129d4250d93f
+[03-Jan-2017 13:43:18 Africa/Abidjan] setting controller status to 100
+[03-Jan-2017 13:43:18 Africa/Abidjan] loading backup info
+[03-Jan-2017 13:43:18 Africa/Abidjan] loading controller plan
+[03-Jan-2017 13:43:18 Africa/Abidjan] setting controller status to 300
+[03-Jan-2017 13:43:18 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:43:18 Africa/Abidjan] setting controller status to 500
+[03-Jan-2017 13:43:18 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:43:18 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:43:18 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:43:18 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:43:18 Africa/Abidjan] calculating controller checksum 6094ff103096d855da831924d677bcfc
+[03-Jan-2017 13:43:51 Africa/Abidjan] loading controller from db
+[03-Jan-2017 13:43:51 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:43:51 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:43:51 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:43:51 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:43:51 Africa/Abidjan] calculating controller checksum 6094ff103096d855da831924d677bcfc
+[03-Jan-2017 13:44:02 Africa/Abidjan] loading controller from db
+[03-Jan-2017 13:44:02 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:44:02 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:44:02 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:44:02 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:44:02 Africa/Abidjan] calculating controller checksum 3ae20c2d1efa136776a304663280dd70
+[03-Jan-2017 13:44:07 Africa/Abidjan] loading controller from db
+[03-Jan-2017 13:44:07 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:44:07 Africa/Abidjan] checking plan security
+[03-Jan-2017 13:44:07 Africa/Abidjan] setting controller status to 600
+[03-Jan-2017 13:44:07 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:44:07 Africa/Abidjan] calculating controller checksum a5a83b6350ee15ba7471247972dc4351
+[03-Jan-2017 13:44:07 Africa/Abidjan] loading controller from db
+[03-Jan-2017 13:44:08 Africa/Abidjan] setting controller status to 700
+[03-Jan-2017 13:44:08 Africa/Abidjan] saving controller to db
+[03-Jan-2017 13:44:08 Africa/Abidjan] calculating controller checksum 9c63b9118cd21d8bfa1e9be117cd3880
+[03-Jan-2017 13:44:08 Africa/Abidjan] loading controller from db
+[03-Jan-2017 13:44:08 Africa/Abidjan] setting controller status to 800
+[03-Jan-2017 13:44:11 Africa/Abidjan] processing file aliases queue
+[03-Jan-2017 13:44:11 Africa/Abidjan] setting controller status to 1000
+[03-Jan-2017 13:44:11 Africa/Abidjan] saving controller to db

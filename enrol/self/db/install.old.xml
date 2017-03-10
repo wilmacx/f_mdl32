@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="enrol/self/db" VERSION="2012062000" COMMENT="XMLDB file for Moodle enrol/self"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="course_availability" COMMENT="Table stores conditions that affect whether a course is currently available to students or not.">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true" NEXT="courseid"/>
+        <FIELD NAME="courseid" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="false" COMMENT="ID of the course whose availability is being restricted by this condition." PREVIOUS="id" NEXT="sourcecourseid"/>
+        <FIELD NAME="sourcecourseid" TYPE="int" LENGTH="10" NOTNULL="false" UNSIGNED="true" SEQUENCE="false" COMMENT="If this condition is based on completion of another course, then this is the course ID of that course. Otherwise null." PREVIOUS="courseid" NEXT="grademin"/>
+        <FIELD NAME="grademin" TYPE="number" LENGTH="10" NOTNULL="false" UNSIGNED="false" SEQUENCE="false" DECIMALS="5" COMMENT="If set, this is the minimum grade percentage that must be reached (greater than or equal) in order for this course to appear. Otherwise null." PREVIOUS="sourcecourseid" NEXT="grademax"/>
+        <FIELD NAME="grademax" TYPE="number" LENGTH="10" NOTNULL="false" UNSIGNED="false" SEQUENCE="false" DECIMALS="5" COMMENT="If set, this is the maximum grade percentage that users must be below (less than) in order to display this item. Otherwise null." PREVIOUS="grademin"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id" NEXT="courseid"/>
+        <KEY NAME="courseid" TYPE="foreign" FIELDS="courseid" REFTABLE="course" REFFIELDS="id" PREVIOUS="primary" NEXT="sourcecourseid"/>
+        <KEY NAME="sourcecourseid" TYPE="foreign" FIELDS="sourcecourseid" REFTABLE="course" REFFIELDS="id" PREVIOUS="courseid"/>
+      </KEYS>
+    </TABLE>
+  </TABLES>
+</XMLDB>

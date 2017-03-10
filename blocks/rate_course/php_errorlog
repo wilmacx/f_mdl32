@@ -1,0 +1,73 @@
+[19-Dec-2016 13:27:30 Africa/Abidjan] Default exception handler: Coding error detected, it must be fixed by a programmer: build_navigation() can not be used any more, please use $PAGE-&gt;navbar methods instead. Debug: 
+Error code: codingerror
+* line 1152 of /lib/deprecatedlib.php: coding_exception thrown
+* line 43 of /blocks/rate_course/rate.php: call to build_navigation()
+
+[19-Dec-2016 13:55:31 Africa/Abidjan] PHP Notice:  Undefined variable: cm in /home/alveria4/public_html/moodle32/blocks/rate_course/rate.php on line 39
+[19-Dec-2016 13:55:31 Africa/Abidjan] PHP Notice:  Trying to get property of non-object in /home/alveria4/public_html/moodle32/blocks/rate_course/rate.php on line 39
+[19-Dec-2016 13:55:31 Africa/Abidjan] Default exception handler: Invalid course module ID Debug: SELECT id,course FROM {course_modules} WHERE id IS NULL
+[array (
+)]
+Error code: invalidcoursemodule
+* line 1502 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1478 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 6877 of /lib/accesslib.php: call to moodle_database->get_record()
+* line 39 of /blocks/rate_course/rate.php: call to context_module::instance()
+
+[19-Dec-2016 13:58:39 Africa/Abidjan] Default exception handler: Coding error detected, it must be fixed by a programmer: build_navigation() can not be used any more, please use $PAGE-&gt;navbar methods instead. Debug: 
+Error code: codingerror
+* line 1152 of /lib/deprecatedlib.php: coding_exception thrown
+* line 44 of /blocks/rate_course/rate.php: call to build_navigation()
+
+[19-Dec-2016 14:01:58 Africa/Abidjan] PHP Fatal error:  Call to undefined method moodle_page::navbar() in /home/alveria4/public_html/moodle32/blocks/rate_course/rate.php on line 45
+[19-Dec-2016 14:02:29 Africa/Abidjan] Default exception handler: Coding error detected, it must be fixed by a programmer: print_header_simple() can not be used any more. Please use $PAGE methods instead. Debug: 
+Error code: codingerror
+* line 963 of /lib/deprecatedlib.php: coding_exception thrown
+* line 47 of /blocks/rate_course/rate.php: call to print_header_simple()
+
+[19-Dec-2016 14:03:08 Africa/Abidjan] Default exception handler: Coding error detected, it must be fixed by a programmer: Invalid state passed to moodle_page::set_state. We are in state 0 and state 3 was requested. Debug: 
+Error code: codingerror
+* line 955 of /lib/pagelib.php: coding_exception thrown
+* line 1156 of /lib/outputrenderers.php: call to moodle_page->set_state()
+* line ? of unknownfile: call to core_renderer->footer()
+* line 1827 of /lib/setuplib.php: call to call_user_func_array()
+* line 99 of /blocks/rate_course/rate.php: call to bootstrap_renderer->__call()
+* line 99 of /blocks/rate_course/rate.php: call to bootstrap_renderer->footer()
+
+[19-Dec-2016 14:13:06 Africa/Abidjan] Default exception handler: Coding error detected, it must be fixed by a programmer: Invalid state passed to moodle_page::set_state. We are in state 0 and state 3 was requested. Debug: 
+Error code: codingerror
+* line 955 of /lib/pagelib.php: coding_exception thrown
+* line 1156 of /lib/outputrenderers.php: call to moodle_page->set_state()
+* line ? of unknownfile: call to core_renderer->footer()
+* line 1827 of /lib/setuplib.php: call to call_user_func_array()
+* line 101 of /blocks/rate_course/rate.php: call to bootstrap_renderer->__call()
+* line 101 of /blocks/rate_course/rate.php: call to bootstrap_renderer->footer()
+
+[19-Dec-2016 14:33:03 Africa/Abidjan] Default exception handler: Coding error detected, it must be fixed by a programmer: Invalid state passed to moodle_page::set_state. We are in state 0 and state 3 was requested. Debug: 
+Error code: codingerror
+* line 955 of /lib/pagelib.php: coding_exception thrown
+* line 1156 of /lib/outputrenderers.php: call to moodle_page->set_state()
+* line ? of unknownfile: call to core_renderer->footer()
+* line 1827 of /lib/setuplib.php: call to call_user_func_array()
+* line 102 of /blocks/rate_course/rate.php: call to bootstrap_renderer->__call()
+* line 102 of /blocks/rate_course/rate.php: call to bootstrap_renderer->footer()
+
+[19-Dec-2016 14:34:33 Africa/Abidjan] Default exception handler: Coding error detected, it must be fixed by a programmer: Invalid state passed to moodle_page::set_state. We are in state 0 and state 3 was requested. Debug: 
+Error code: codingerror
+* line 955 of /lib/pagelib.php: coding_exception thrown
+* line 1156 of /lib/outputrenderers.php: call to moodle_page->set_state()
+* line ? of unknownfile: call to core_renderer->footer()
+* line 1827 of /lib/setuplib.php: call to call_user_func_array()
+* line 103 of /blocks/rate_course/rate.php: call to bootstrap_renderer->__call()
+* line 103 of /blocks/rate_course/rate.php: call to bootstrap_renderer->footer()
+
+[19-Dec-2016 14:44:12 Africa/Abidjan] PHP Notice:  Undefined variable: courseid in /home/alveria4/public_html/moodle32/blocks/rate_course/update.php on line 40
+[19-Dec-2016 14:44:12 Africa/Abidjan] Default exception handler: Can not find data record in database table course. Debug: SELECT id,category FROM {course} WHERE id IS NULL
+[array (
+)]
+Error code: invalidrecord
+* line 1502 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1478 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 6616 of /lib/accesslib.php: call to moodle_database->get_record()
+* line 40 of /blocks/rate_course/update.php: call to context_course::instance()
+

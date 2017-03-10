@@ -1,0 +1,31 @@
+[19-Dec-2016 13:20:21 Africa/Abidjan] moodle:configurable_reports:bar:  substituting 0 for non-numeric value ''
+[19-Dec-2016 13:20:21 Africa/Abidjan] moodle:configurable_reports:bar:  substituting 0 for non-numeric value ''
+[19-Dec-2016 20:25:58 Africa/Abidjan] PHP Notice:  Undefined offset: 2 in /home/alveria4/public_html/moodle32/blocks/configurable_reports/get_remote_report.php on line 40
+[19-Dec-2016 20:25:58 Africa/Abidjan] PHP Notice:  Undefined offset: 1 in /home/alveria4/public_html/moodle32/blocks/configurable_reports/get_remote_report.php on line 40
+[19-Dec-2016 20:26:08 Africa/Abidjan] PHP Notice:  Undefined offset: 2 in /home/alveria4/public_html/moodle32/blocks/configurable_reports/get_remote_report.php on line 40
+[19-Dec-2016 20:26:08 Africa/Abidjan] PHP Notice:  Undefined offset: 1 in /home/alveria4/public_html/moodle32/blocks/configurable_reports/get_remote_report.php on line 40
+[03-Jan-2017 15:00:42 Africa/Abidjan] PHP Notice:  Undefined offset: 2 in /home/alveria4/public_html/moodle32/blocks/configurable_reports/get_remote_report.php on line 40
+[03-Jan-2017 15:00:42 Africa/Abidjan] PHP Notice:  Undefined offset: 1 in /home/alveria4/public_html/moodle32/blocks/configurable_reports/get_remote_report.php on line 40
+[03-Jan-2017 15:01:00 Africa/Abidjan] PHP Notice:  Undefined offset: 2 in /home/alveria4/public_html/moodle32/blocks/configurable_reports/get_remote_report.php on line 40
+[03-Jan-2017 15:01:00 Africa/Abidjan] PHP Notice:  Undefined offset: 1 in /home/alveria4/public_html/moodle32/blocks/configurable_reports/get_remote_report.php on line 40
+[21-Jan-2017 19:16:19 Africa/Abidjan] auth_saml2: pre_loginpage_hook enter
+[21-Jan-2017 19:16:19 Africa/Abidjan] auth_saml2: loginpage_hook enter
+[21-Jan-2017 19:16:19 Africa/Abidjan] auth_saml2: should_login_redirect enter
+[21-Jan-2017 19:16:19 Africa/Abidjan] auth_saml2: should_login_redirect skipping due to dual auth
+[21-Jan-2017 19:16:19 Africa/Abidjan] auth_saml2: loginpage_hook exit
+[21-Jan-2017 19:16:19 Africa/Abidjan] auth_saml2: pre_loginpage_hook exit
+[21-Jan-2017 19:21:47 Africa/Abidjan] auth_saml2: pre_loginpage_hook enter
+[21-Jan-2017 19:21:47 Africa/Abidjan] auth_saml2: loginpage_hook enter
+[21-Jan-2017 19:21:47 Africa/Abidjan] auth_saml2: should_login_redirect enter
+[21-Jan-2017 19:21:47 Africa/Abidjan] auth_saml2: should_login_redirect skipping due to dual auth
+[21-Jan-2017 19:21:47 Africa/Abidjan] auth_saml2: loginpage_hook exit
+[21-Jan-2017 19:21:47 Africa/Abidjan] auth_saml2: pre_loginpage_hook exit
+[25-Jan-2017 22:14:10 Europe/Rome] moodle:configurable_reports:bar:  refusing to chart label field
+[25-Jan-2017 22:14:10 Europe/Rome] moodle:configurable_reports:bar:  refusing to chart label field
+[25-Jan-2017 22:14:10 Europe/Rome] moodle:configurable_reports:bar:  refusing to chart label field
+[01-Feb-2017 15:22:34 Europe/Rome] auth_saml2: pre_loginpage_hook enter
+[01-Feb-2017 15:22:34 Europe/Rome] auth_saml2: loginpage_hook enter
+[01-Feb-2017 15:22:34 Europe/Rome] auth_saml2: should_login_redirect enter
+[01-Feb-2017 15:22:34 Europe/Rome] auth_saml2: should_login_redirect skipping due to dual auth
+[01-Feb-2017 15:22:34 Europe/Rome] auth_saml2: loginpage_hook exit
+[01-Feb-2017 15:22:34 Europe/Rome] auth_saml2: pre_loginpage_hook exit

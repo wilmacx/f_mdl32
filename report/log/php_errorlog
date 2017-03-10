@@ -1,0 +1,6 @@
+[30-Jan-2017 15:01:50 Europe/Rome] auth_saml2: pre_loginpage_hook enter
+[30-Jan-2017 15:01:50 Europe/Rome] auth_saml2: loginpage_hook enter
+[30-Jan-2017 15:01:50 Europe/Rome] auth_saml2: should_login_redirect enter
+[30-Jan-2017 15:01:50 Europe/Rome] auth_saml2: should_login_redirect skipping due to dual auth
+[30-Jan-2017 15:01:50 Europe/Rome] auth_saml2: loginpage_hook exit
+[30-Jan-2017 15:01:50 Europe/Rome] auth_saml2: pre_loginpage_hook exit

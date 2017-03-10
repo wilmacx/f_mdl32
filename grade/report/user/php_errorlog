@@ -1,0 +1,10 @@
+[04-Jan-2017 11:51:05 Africa/Abidjan] Default exception handler: Can not view grades. Debug: 
+Error code: nopermissiontoviewgrades
+* line 496 of /lib/setuplib.php: moodle_exception thrown
+* line 77 of /grade/report/user/index.php: call to print_error()
+
+[04-Jan-2017 11:52:02 Africa/Abidjan] Default exception handler: Can not view grades. Debug: 
+Error code: nopermissiontoviewgrades
+* line 496 of /lib/setuplib.php: moodle_exception thrown
+* line 77 of /grade/report/user/index.php: call to print_error()
+

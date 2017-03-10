@@ -1,0 +1,52 @@
+[19-Dec-2016 14:47:27 Africa/Abidjan] PHP Notice:  Undefined property: stdClass::$block_ranking_rankingsize in /home/alveria4/public_html/moodle32/blocks/ranking/edit_form.php on line 42
+[19-Dec-2016 14:47:40 Africa/Abidjan] PHP Notice:  Undefined property: stdClass::$block_ranking_rankingsize in /home/alveria4/public_html/moodle32/blocks/ranking/edit_form.php on line 42
+[03-Jan-2017 14:24:58 Africa/Abidjan] PHP Notice:  Undefined property: stdClass::$block_ranking_rankingsize in /home/alveria4/public_html/moodle32/blocks/ranking/edit_form.php on line 42
+[03-Jan-2017 14:27:11 Africa/Abidjan] PHP Notice:  Undefined property: stdClass::$block_ranking_rankingsize in /home/alveria4/public_html/moodle32/blocks/ranking/edit_form.php on line 42
+[03-Jan-2017 14:29:48 Africa/Abidjan] PHP Notice:  Undefined property: stdClass::$block_ranking_rankingsize in /home/alveria4/public_html/moodle32/blocks/ranking/edit_form.php on line 42
+[03-Jan-2017 20:05:48 Africa/Abidjan] Default exception handler: Must specify course id, short name or idnumber Debug: 
+Error code: unspecifycourseid
+* line 496 of /lib/setuplib.php: moodle_exception thrown
+* line 30 of /course/view.php: call to print_error()
+
+[26-Jan-2017 14:36:14 Europe/Rome] auth_saml2: pre_loginpage_hook enter
+[26-Jan-2017 14:36:14 Europe/Rome] auth_saml2: loginpage_hook enter
+[26-Jan-2017 14:36:14 Europe/Rome] auth_saml2: should_login_redirect enter
+[26-Jan-2017 14:36:14 Europe/Rome] auth_saml2: should_login_redirect skipping due to dual auth
+[26-Jan-2017 14:36:14 Europe/Rome] auth_saml2: loginpage_hook exit
+[26-Jan-2017 14:36:14 Europe/Rome] auth_saml2: pre_loginpage_hook exit
+[26-Jan-2017 22:01:38 Europe/Rome] auth_saml2: pre_loginpage_hook enter
+[26-Jan-2017 22:01:38 Europe/Rome] auth_saml2: loginpage_hook enter
+[26-Jan-2017 22:01:38 Europe/Rome] auth_saml2: should_login_redirect enter
+[26-Jan-2017 22:01:38 Europe/Rome] auth_saml2: should_login_redirect skipping due to dual auth
+[26-Jan-2017 22:01:38 Europe/Rome] auth_saml2: loginpage_hook exit
+[26-Jan-2017 22:01:38 Europe/Rome] auth_saml2: pre_loginpage_hook exit
+[31-Jan-2017 13:15:55 Europe/Rome] auth_saml2: pre_loginpage_hook enter
+[31-Jan-2017 13:15:55 Europe/Rome] auth_saml2: loginpage_hook enter
+[31-Jan-2017 13:15:55 Europe/Rome] auth_saml2: should_login_redirect enter
+[31-Jan-2017 13:15:55 Europe/Rome] auth_saml2: should_login_redirect skipping due to dual auth
+[31-Jan-2017 13:15:55 Europe/Rome] auth_saml2: loginpage_hook exit
+[31-Jan-2017 13:15:55 Europe/Rome] auth_saml2: pre_loginpage_hook exit
+[01-Feb-2017 10:28:57 Europe/Rome] auth_saml2: pre_loginpage_hook enter
+[01-Feb-2017 10:28:57 Europe/Rome] auth_saml2: loginpage_hook enter
+[01-Feb-2017 10:28:57 Europe/Rome] auth_saml2: should_login_redirect enter
+[01-Feb-2017 10:28:57 Europe/Rome] auth_saml2: should_login_redirect skipping due to dual auth
+[01-Feb-2017 10:28:57 Europe/Rome] auth_saml2: loginpage_hook exit
+[01-Feb-2017 10:28:57 Europe/Rome] auth_saml2: pre_loginpage_hook exit
+[01-Feb-2017 11:04:02 Europe/Rome] auth_saml2: pre_loginpage_hook enter
+[01-Feb-2017 11:04:02 Europe/Rome] auth_saml2: loginpage_hook enter
+[01-Feb-2017 11:04:02 Europe/Rome] auth_saml2: should_login_redirect enter
+[01-Feb-2017 11:04:02 Europe/Rome] auth_saml2: should_login_redirect skipping due to dual auth
+[01-Feb-2017 11:04:02 Europe/Rome] auth_saml2: loginpage_hook exit
+[01-Feb-2017 11:04:02 Europe/Rome] auth_saml2: pre_loginpage_hook exit
+[01-Feb-2017 15:54:26 Europe/Rome] auth_saml2: pre_loginpage_hook enter
+[01-Feb-2017 15:54:26 Europe/Rome] auth_saml2: loginpage_hook enter
+[01-Feb-2017 15:54:26 Europe/Rome] auth_saml2: should_login_redirect enter
+[01-Feb-2017 15:54:26 Europe/Rome] auth_saml2: should_login_redirect skipping due to dual auth
+[01-Feb-2017 15:54:26 Europe/Rome] auth_saml2: loginpage_hook exit
+[01-Feb-2017 15:54:26 Europe/Rome] auth_saml2: pre_loginpage_hook exit
+[02-Feb-2017 14:10:02 Europe/Rome] auth_saml2: pre_loginpage_hook enter
+[02-Feb-2017 14:10:02 Europe/Rome] auth_saml2: loginpage_hook enter
+[02-Feb-2017 14:10:02 Europe/Rome] auth_saml2: should_login_redirect enter
+[02-Feb-2017 14:10:02 Europe/Rome] auth_saml2: should_login_redirect skipping due to dual auth
+[02-Feb-2017 14:10:02 Europe/Rome] auth_saml2: loginpage_hook exit
+[02-Feb-2017 14:10:02 Europe/Rome] auth_saml2: pre_loginpage_hook exit

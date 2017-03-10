@@ -1,0 +1,15 @@
+[30-Dec-2016 16:05:31 Africa/Abidjan] Default exception handler: You are not allowed to update this user preference remotely Debug: 
+Error code: notallowedtoupdateprefremotely
+* line 496 of /lib/setuplib.php: moodle_exception thrown
+* line 39 of /lib/ajax/setuserpref.php: call to print_error()
+
+[30-Dec-2016 16:25:14 Africa/Abidjan] Default exception handler: You are not allowed to update this user preference remotely Debug: 
+Error code: notallowedtoupdateprefremotely
+* line 496 of /lib/setuplib.php: moodle_exception thrown
+* line 39 of /lib/ajax/setuserpref.php: call to print_error()
+
+[02-Jan-2017 09:29:13 Africa/Abidjan] Default exception handler: Course or activity not accessible. Debug: You are not logged in
+Error code: requireloginerror
+* line 2600 of /lib/moodlelib.php: require_login_exception thrown
+* line 32 of /lib/ajax/getsiteadminbranch.php: call to require_login()
+
